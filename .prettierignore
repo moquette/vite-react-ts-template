@@ -1,0 +1,21 @@
+# Dependencies and build outputs
+node_modules/
+dist/
+build/
+
+# Yarn PnP files
+.yarn/
+.pnp.*
+
+# IDE and editor files
+.vscode/
+.idea/
+.claude/
+
+# Package manager files
+package-lock.json
+yarn.lock
+
+# Generated files
+coverage/
+*.log
